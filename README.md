@@ -1,3 +1,4 @@
+
 # Canvas Snake
 
 An implementation of the Snake arcade game in pure Javascript (using canvas for
